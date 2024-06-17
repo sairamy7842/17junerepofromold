@@ -11,8 +11,8 @@
   DTS:LocaleID="16393"
   DTS:ObjectName="onepackageloadssms"
   DTS:PackageType="5"
-  DTS:VersionBuild="11"
-  DTS:VersionGUID="{4BBD7CA6-CE6B-41A5-8C80-7AC77D1A870A}">
+  DTS:VersionBuild="12"
+  DTS:VersionGUID="{328F782F-3DBC-46F2-8222-8645C205CAD9}">
   <DTS:Property
     DTS:Name="PackageFormatVersion">8</DTS:Property>
   <DTS:ConnectionManagers>
@@ -187,7 +187,7 @@
 union
 
 
-select 111 col
+select 1222 col
 
 
 union 
@@ -354,7 +354,7 @@ select 10 col</property>
           Text="n"
           ParentId="Package\DFT_loadsql1"
           FontInfo="{assembly:Null}"
-          Size="35.2,60"
+          Size="35.2,40"
           Id="c24e39f9-2c82-4c81-8a41-0d1de48b388a"
           TopLeft="570.714286929187,178.941176313739" />
       </GraphLayout>
